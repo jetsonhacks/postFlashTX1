@@ -1,7 +1,7 @@
 # postFlashTX1
 After flashing the NVIDIA Jetson TX1 Development Kit with JetPack, here is a collection of scripts that can be used to help configure the development environment.
 
-<blockquote>
+<code>
 
 From: https://github.com/dusty-nv/jetson-scripts.git
 Set the CPU and GPU to max clock speeds, and uninstall some Unity desktop types of functionality
@@ -22,5 +22,5 @@ usage: createSwapFile [[[-d directory ] [-s size] -a] | [-h]]
 
 =========
 
-</blockquote>
+</code>
 
