@@ -7,12 +7,14 @@ From: https://github.com/dusty-nv/jetson-scripts.git
 Set the CPU and GPU to max clock speeds, and uninstall some Unity desktop types of functionality
 
 jetson_max_l4t.sh
+
 uninstall_unity_scope.sh
 
 
 ========
 
 createSwapFile.sh - Create a swap file ; Use on external media like USB drive or SSD
+
 
 usage: createSwapFile [[[-d directory ] [-s size] -a] | [-h]]
 -d | --dir <directoryname>   Directory to place swapfile
