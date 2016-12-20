@@ -1,2 +1,2 @@
 # postFlashTX1
-Some scripts for setting up a development environment on the NVIDIA Jetson TX1
+After flashing the NVIDIA Jetson TX1 Development Kit with JetPack, here are some scripts that can be used to help configure the development environment.
