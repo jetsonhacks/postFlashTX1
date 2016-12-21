@@ -15,9 +15,9 @@ After flashing the NVIDIA Jetson TX1 Development Kit with JetPack, here is a col
 
 > usage: createSwapFile [[[-d directory ] [-s size] -a] | [-h]]
 >
-> -d | --dir <directoryname>   Directory to place swapfile
+> -d | --dir [directoryname]   Directory to place swapfile
 >
-> -s | --size <gigabytes>
+> -s | --size [gigabytes]
 >
 > -a | --auto  Enable swap on boot in /etc/fstab 
 >
