@@ -23,9 +23,13 @@ After flashing the NVIDIA Jetson TX1 Development Kit with JetPack, here is a col
 >
 > -h | --help  This message
 >
-> Note that if you enable swap on boot, you should also automount the drive that you're using
+> Defaults to creating a 8GB Swapfile in the current directory
+>
+> Note: If you enable swap on boot, you should also automount the drive that you're using
 
 > =========
 
+### Uninstall Libre Office
+> uninstallLibreoffice.sh    --- Uninstalls the Libre Office suite
 
 
