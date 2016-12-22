@@ -2,9 +2,7 @@
 After flashing the NVIDIA Jetson TX1 Development Kit with JetPack, here is a collection of scripts that can be used to help configure the development environment.
 
 > From: https://github.com/dusty-nv/jetson-scripts.git
-> Set the CPU and GPU to max clock speeds, and uninstall some Unity desktop types of functionality
-
-> jetson_max_l4t.sh           -- Set the CPU and GPU clocks to maximum speed
+> Uninstall some Unity desktop types of functionality
 >
 > uninstall_unity_scope.sh    -- Remove the Unity scopes
 
